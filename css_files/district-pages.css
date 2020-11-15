@@ -1,0 +1,48 @@
+*{
+	margin:2px;
+
+}
+
+body{
+	/*background-image: url("images/backg.jpg");*/
+	background-color:white;
+	font-family: Lucida sans;
+	color:blue;
+}
+
+.ptag{
+	margin-top:10px;
+	padding-top:100px; 
+	margin-left:5px;
+	/*background-color:#cfd7e6;*/
+	font-family: Lucida sans;
+
+	color:#595832;
+}
+.ptag p{border:2px solid grey;
+		 padding:2px;}
+.col-lg-6 img{
+		  width:720px;height:480px;
+		  }
+
+.slides-head {
+      font-family:"arial";
+      color:#091e47;
+      font-weight: bold;
+      text-align:center;
+      background-color:#427571;
+
+      margin:.625em;
+      padding: .625em;
+      border:.3125em solid gainsboro;
+
+    }
+
+  footer{
+      /*background-color: #93a3ad;*/
+      color:#dbdbdb;
+      height:80px;width:100%;
+      text-align:center;
+      font-family:"lucida-sans";
+      padding: 10px;
+    }

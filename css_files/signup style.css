@@ -1,0 +1,42 @@
+@keyframes example 
+    {
+      from {background-color: #e3fcfc;}
+        to {background-color: #cad1c5;}
+    }
+
+
+.loginform{
+      margin:5%;margin-left:10%
+      }
+
+    
+
+
+    form{
+      margin-left:30%;
+
+    }
+    body{
+      animation-name: example;
+      animation-duration: 6s;
+      animation-delay: 1s;
+
+      background-color:#b8c8c357;
+    }
+    h3{
+      font-family: "Futura"
+      color: blue;
+      /*background-color: #636162;*/
+      text-align: center;
+      width:28.125em ;
+      margin:.625em;
+      padding: .625em;
+      border:.3125em solid gainsboro;
+      margin-left:20%;
+      margin-top: :2%;
+    }
+     footer{
+      margin-top:5%;
+      text-align:center;
+      font-family:"lucida-sans";
+    }

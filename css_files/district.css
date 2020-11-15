@@ -1,0 +1,57 @@
+*{
+	margin:2px;
+
+}
+
+.disbody{
+  background-image: url("idk3.jpg");
+	background-color: #1d1a1f;
+	font-family: Lucida sans;
+	color:#aca7b0;
+}
+
+.container-tag{ 
+      margin-top: 5%;
+      width:780px; 
+      height:280px; 
+      background-color:#829ac2; 
+      padding-top:20px; 
+      padding-left:15px; 
+      padding-right:15px; 
+    } 
+    #first-box { 
+      text-align: center;
+      float:left; 
+      width:248px; 
+      height:240px; 
+      background-color:lightblue; 
+      border:solid black; 
+    } 
+    #second-box { 
+      text-align: center;
+      float:left; 
+      width:248px; 
+      height:240px; 
+      background-color:lightblue; 
+      border:solid black; 
+      margin-left:20px; 
+    } 
+    #third-box { 
+      text-align: center;
+      margin-left: 20px;
+      float:left; 
+      width:250px; 
+      height:240px; 
+      background-color:lightblue; 
+      border:solid black; 
+    }
+h1{
+  font-family: lucida sans;
+  text-align: center;
+  color:red;
+}
+footer{
+      margin-top:80%;
+      text-align:center;
+      font-family:"lucida-sans";
+    }

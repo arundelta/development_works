@@ -1,0 +1,106 @@
+*{
+      margin:0px;
+      }
+      @keyframes example 
+    {
+      from {background-color: #e3fcfc;}
+        to {background-color: #cad1c5;}
+    }
+
+    body{
+      animation-name: example;
+      animation-duration: 6s;
+      animation-delay: 1s;
+
+      /*background-image: url("idk3.jpg");
+      /ackground-color:#e3fcfc;
+      /*width:720px;height:720px;*/
+    }
+    h3{
+      font-family: "Futura"
+      color: blue;
+      /*background-color: #636162;*/
+      text-align: center;
+      width:28.125em ;
+      margin:.625em;
+      padding: .625em;
+      border:.3125em solid gainsboro;
+      margin-left:20%;
+      margin-top: :2%;
+    }
+    .loginform{
+      margin:5%; background-image: url("images/x.jpg");
+    }
+    form{
+      margin-left:33%;
+
+
+    }
+     footer{
+      margin-top:5%;
+      text-align:center;
+      font-family:"lucida-sans";
+    }
+
+
+
+
+
+
+
+
+ ;
+/*
+@import url(https://fonts.googleapis.com/css?family=Signika:400,700|Courgette);
+
+#password-strength-text
+{
+  width:100%;height:80px;
+}
+section {
+  background: #f5f7f9
+margin: 0em auto 0;
+width: 100%;
+max-width: 800px;
+}
+
+meter {
+    /* Reset the default appearance */
+/*-webkit-appearance: none;
+   -moz-appearance: none;
+        appearance: none;
+            
+margin: 0 auto 1em;
+width: 100%;
+height: 20px;
+    
+    /* Applicable only to Firefox */
+/*background: none;
+background-color: rgba(0,0,0,0.1);
+}
+
+meter::-webkit-meter-bar {
+background: none;
+background-color: rgba(0,0,0,0.1);
+}
+
+meter[value="1"]::-webkit-meter-optimum-value { background: red; }
+meter[value="2"]::-webkit-meter-optimum-value { background: yellow; }
+meter[value="3"]::-webkit-meter-optimum-value { background: orange; }
+meter[value="4"]::-webkit-meter-optimum-value { background: green; }
+
+meter[value="1"]::-moz-meter-bar { background: red; }
+meter[value="2"]::-moz-meter-bar { background: yellow; }
+meter[value="3"]::-moz-meter-bar { background: orange; }
+meter[value="4"]::-moz-meter-bar { background: green; }
+
+
+.feedback {
+color: #9ab;
+font-size: 90%;
+padding: 0 .25em;
+font-family: Courgette, cursive;
+margin-top: 1em;*/
+}*/
+*/
+ 
